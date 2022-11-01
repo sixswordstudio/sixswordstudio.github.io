@@ -1,8 +1,8 @@
 navbar_entries:
-  - title: about
+  #- title: about
     url: about
 
-  - title: blog
+  #- title: blog
     url: blog
 
 project_entries:
@@ -14,10 +14,12 @@ project_entries:
   - title: Copy
     url: overview-post
     desc: Ways to relax after a stressful day
+    highlight: WIP
 
   - title: Troubleshooting
     url: overview-post
     desc: Troubleshooting internet connectivity
+    highlight: WIP
 
   - title: Walkthrough
     url: overview-post
@@ -32,6 +34,7 @@ project_entries:
   - title: Critical Analysis
     url: overview-post
     desc: Winner of Kim Moes Award at Vancouver Island University 2014
+    highlight: WIP
 
 old_project_entries:
   - title: Soopr
@@ -52,16 +55,16 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: Amy's LinkedIn
+    url: https://ca.linkedin.com/in/amy-park-a7038588
 
-  - title: twitter
+  #- title: twitter
     url: https://twitter.com/abhinav
 
-  - title: github
+  #- title: github
     url: https://github.com/abhinavs
 
-  - title: feed
+  #- title: feed
     url: feed.xml
 
 misc_entries:
