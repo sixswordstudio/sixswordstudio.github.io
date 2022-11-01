@@ -1,9 +1,8 @@
-title: Amy Park - Technical Writing Portfolio
+title: Technical Writing Portfolio
 author: Amy Park
 url: https://sixswordstudio.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Welcome to the showcase for Amy's work.
-
+  Amy Park has been a technical writer since 2017. Most content she developed and published during that time is internal to the company where she was employed, and can't be shared publicly. This portfolio stands as an alternative to showcase her work. 
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon

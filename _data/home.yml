@@ -8,11 +8,11 @@ navbar_entries:
 project_entries:
   - title: Project 1
     url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+    desc: How to make shepherd's pie
 
   - title: Project 2
     url: overview-post
-    desc: Projects are shown in card layout
+    desc: Ways to relax after a stressful day
 
   - title: Project 3
     url: overview-post
