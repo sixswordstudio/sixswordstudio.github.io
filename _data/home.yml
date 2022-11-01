@@ -7,32 +7,32 @@ navbar_entries:
 
 project_entries:
   - title: Recipe
-    url: writing-sample
+    url: recipe
     desc: How to make a delicious shepherd's pie
     highlight: WIP
 
   - title: Copy
-    url: writing-sample
+    url: copy
     desc: Ways to relax after a stressful day
     highlight: WIP
 
   - title: Troubleshooting
-    url: writing-sample
+    url: troubleshooting
     desc: Troubleshooting internet connectivity
     highlight: WIP
 
   - title: Walkthrough
-    url: writing-sample
+    url: walkthrough
     desc: Portrait painting from start to finish
     highlight: WIP
 
   - title: FAQ
-    url: writing-sample
+    url: f-a-q
     desc: Frequently asked questions
     highlight: WIP
 
   - title: Critical Analysis
-    url: writing-sample
+    url: critical-analysis
     desc: Winner of Kim Moes Award at Vancouver Island University 2014
     highlight: WIP
 
