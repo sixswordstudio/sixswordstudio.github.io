@@ -2,6 +2,9 @@
 layout: post
 ---
 # The Road
+![TheRoad](/_screenshots/TheRoad.png)
+### _Spoilers ahead_
+
 The Road. An unorthodox novel published in 2006 by prolific author Cormac McCarthy. Bleak world; austere fiction. While the setting and the experiences of the protagonists are overtly dark in theme and description, it is the subtle style of McCarthy's writing which abets an ambivalent atmosphere. Sentence fragments.  No quotation marks, no apostrophes, no distinctive indication of who is speaking; no comfort, no hope.
 
 The novel centres around a man and his boy as they keep themselves alive, for vague reasons, in an equally ambiguous post-apocalyptic environment. The motif of whether or not to kill themselves reoccurs throughout the novel, and the reader is brought along the road towards the question: “Why live?” 
