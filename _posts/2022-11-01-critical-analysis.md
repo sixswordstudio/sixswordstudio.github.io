@@ -1,26 +1,19 @@
 ---
 layout: post
 ---
+# The Road
+The Road. An unorthodox novel published in 2006 by prolific author Cormac McCarthy. Bleak world; austere fiction. While the setting and the experiences of the protagonists are overtly dark in theme and description, it is the subtle style of McCarthy's writing which abets an ambivalent atmosphere. Sentence fragments.  No quotation marks, no apostrophes, no distinctive indication of who is speaking; no comfort, no hope.
 
-Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Nunc a egestas tortor, sed feugiat leo.
+The novel centres around a man and his boy as they keep themselves alive, for vague reasons, in an equally ambiguous post-apocalyptic environment. The motif of whether or not to kill themselves reoccurs throughout the novel, and the reader is brought along the road towards the question: “Why live?” 
 
-## Table of contents
-- [Table of contents](#table-of-contents)
-- [The start](#the-start)
-- [The middle](#the-middle)
-- [The end](#the-end)
+Why does the man beg his wife to continue living, when he knows as well as she does the reality of the world they live in? “They are going to rape us and kill us and eat us and you wont face it,” (56) she reminds him, and yet he continues to beg her to stay. Why? Why would anyone continue in the face of such hopeless meaningless existence? Are the good people, those who “carry the fire,” simply fodder for those who thrive remorselessly in the new paradigm of evil?
 
-Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Nunc a egestas tortor, sed feugiat leo. Vestibulum porta tincidunt tellus, vitae ornare tortor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed nunc neque, tempor in iaculis non, faucibus et metus. Etiam id nisl ut lorem gravida euismod.
+It would be comfortable to assume that such existential questions occur apart from every day life, in some nebulous future hellscape like that of The Road. I believe, though, that there is more to the dying planet setting than its function as a blunt symbol of warning against the dangers of global warming. Rather, that it is metaphoric; an envisioning of the present broken world in which existence drudges on, generation after generation. 
 
-## [The start](#the-start)
+With this in mind, questions rankle like cankers at the core of our drive to survive. Can a parent, with good conscience, bring a child into a world they know is saturated with wrongness and evil? The boy's mother confronts this question:
 
-Fusce non velit cursus ligula mattis convallis vel at metus. Sed pharetra tellus massa, non elementum eros vulputate non. Suspendisse potenti. Quisque arcu felis, laoreet vel accumsan sit amet, fermentum at nunc. Sed massa quam, auctor in eros quis, porttitor tincidunt orci. Nulla convallis id sapien ornare viverra. Cras nec est lacinia ligula porta tincidunt. Nam a est eget ligula pellentesque posuere. Maecenas quis enim ac risus accumsan scelerisque. Aliquam vitae libero sapien. Etiam convallis, metus nec suscipit condimentum, quam massa congue velit, sit amet sollicitudin nisi tortor a lectus. Cras a arcu enim. Suspendisse hendrerit euismod est ac gravida. Donec vitae elit tristique, suscipit eros at, aliquam augue. In ac faucibus dui. Sed tempor lacus tristique elit sagittis, vitae tempor massa convallis.
+>“My heart was ripped out of me the night he was born … Breathe it into being and coax it along with words of love. Offer it each phantom crumb and shield it from harm with your body. As for me my only hope is for eternal nothingness and I hope it with all my heart,” (pg 57).
 
-## [The middle](#the-middle)
+She then kills herself, while the man continues to live. The reader is left with more questions: was it evil of the woman to leave her family, or was it evil of the man to want to create a family in the first place? Are there any options left in that context which are really truly good? Are there any black and white answers to questions such as these, or is everything as grey as McCarthy's ashen landscape?
 
-Proin quis velit et eros auctor laoreet. Aenean eget nibh odio. Suspendisse mollis enim pretium, fermentum urna vitae, egestas purus. Donec convallis tincidunt purus, scelerisque fermentum eros sagittis vel. Aliquam ac aliquet risus, tempus iaculis est. Fusce molestie mauris non interdum hendrerit. Curabitur ullamcorper, eros vitae interdum volutpat, lacus magna lacinia turpis, at accumsan dui tortor vel lectus. Aenean risus massa, semper non lectus rutrum, facilisis imperdiet mi. Praesent sed quam quis purus auctor ornare et sed augue. Vestibulum non quam quis ligula luctus placerat sed sit amet erat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Fusce auctor, sem eu volutpat dignissim, turpis nibh malesuada arcu, in consequat elit mauris quis sem. Nam tristique sit amet enim vel accumsan. Sed id nibh commodo, dictum sem id, semper quam.
-
-## The end
-
-Donec ex lectus, tempus non lacinia quis, pretium non ipsum. Praesent est nunc, rutrum vel tellus eu, tristique laoreet purus. In rutrum orci sit amet ex ornare, sit amet finibus lacus laoreet. Etiam ac facilisis purus, eget porttitor odio. Suspendisse tempus dolor nec risus sodales posuere. Proin dui dui, mollis a consectetur molestie, lobortis vitae tellus. Vivamus at purus sed urna sollicitudin mattis. Mauris lacinia libero in lobortis pulvinar. Nullam sit amet condimentum justo. Donec orci justo, pharetra ut dolor non, interdum finibus orci. Proin vitae ante a dui sodales commodo ac id elit. Nunc vel accumsan nunc, sit amet congue nunc. Aliquam in lacinia velit. Integer lobortis luctus eros, in fermentum metus aliquet a. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-
+There are no easy answers to be found in the reading of The Road; rather, it raises weighty questions about the nature of humanity, evil, and the world we live in. It leaves an ambivalent aftertaste that remains like residue on the roof of the mouth of the readers mind.
