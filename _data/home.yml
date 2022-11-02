@@ -1,6 +1,6 @@
 navbar_entries:
-  #- title: about
-    url: about
+  - title: home
+    url: sixswordstudio.github.io
 
   #- title: blog
     url: blog
