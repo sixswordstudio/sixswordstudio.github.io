@@ -1,9 +1,9 @@
 navbar_entries:
   - title: home
-    url: sixswordstudio.github.io
+    url: https://sixswordstudio.github.io
 
   #- title: blog
-    url: blog
+    # url: blog
 
 project_entries:
   - title: Recipe
