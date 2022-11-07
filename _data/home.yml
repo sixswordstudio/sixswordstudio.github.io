@@ -9,26 +9,25 @@ project_entries:
   - title: Recipe
     url: recipe
     desc: How to make a delicious shepherd's pie
-    highlight: WIP
 
   - title: Copy
     url: copy
     desc: Written text that is to be printed or intended to help with the sale of a product.
 
-  - title: Troubleshooting
-    url: troubleshooting
-    desc: Troubleshooting internet connectivity
-    highlight: WIP
+  # - title: Troubleshooting
+    # url: troubleshooting
+    # desc: Troubleshooting internet connectivity
+    # highlight: WIP
 
-  - title: Walkthrough
-    url: walkthrough
-    desc: Portrait painting from start to finish
-    highlight: WIP
+  # - title: Walkthrough
+    # url: walkthrough
+    # desc: Portrait painting from start to finish
+    # highlight: WIP
 
-  - title: FAQ
-    url: f-a-q
-    desc: Frequently asked questions
-    highlight: WIP
+  # - title: FAQ
+    # url: f-a-q
+    # desc: Frequently asked questions
+    # highlight: WIP
 
   - title: Critical Analysis
     url: critical-analysis
@@ -53,7 +52,7 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: Amy's LinkedIn
+  - title: LinkedIn
     url: https://ca.linkedin.com/in/amy-park-a7038588
 
   #- title: twitter
