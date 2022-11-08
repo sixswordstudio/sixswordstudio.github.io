@@ -14,9 +14,9 @@ project_entries:
     url: copy
     desc: Written text that is to be printed or intended to help with the sale of a product.
 
-   - title: Online Portfolio
-     url: online-portfolio
-     desc: How to configure and deploy your own static website as an online portfolio
+  - title: Online Portfolio
+    url: online-portfolio
+    desc: How to configure and deploy your own static website as an online portfolio
 
   # - title: Walkthrough
     # url: walkthrough
