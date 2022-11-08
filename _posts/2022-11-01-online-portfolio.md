@@ -99,6 +99,7 @@ This guide suggests using a prebuilt Jekyll theme as a template for your first p
 
 - On GitHub, navigate to the repository for the [Moonwalk theme](https://github.com/abhinavs/moonwalk)
 - [Fork the repository](https://github.com/abhinavs/moonwalk/fork) to your own GitHub account.
+- Name the repository ```yourusername.github.io``` with your own username in front of .github.io. 
 - From your new forked repository, download the code into the website project folder on your local hard drive
 ![github1](/assets/css/github1.png)
 
@@ -125,4 +126,20 @@ To begin editing the theme to add your own content to the website:
 This will push the changes made (and saved) on your local file system to the GitHub repository hosting your code. 
 
 # Deploy the website
-At long last
+At long last! The final step in the process is linking the GitHub repository containing your edited theme code to GitHub Pages.
+
+## GitHub Pages
+- In VS Code, edit the ```_config.yml``` file to reflect the url of your GitHub repo
+![configurl](/assets/css/configurl.png)
+- Save and push the changes via Source Control tab
+- Navigate to ['GitHub Settings'](https://github.com/settings/profile)
+- Navigate to ['Pages'](https://github.com/settings/pages)
+- Under 'Source', select a source to deploy
+- Choose your repository's main branch
+
+### Check the update 
+- Go to the URL specified in the ```_Config.yml``` and GitHub Pages deployment source
+- Success! 
+
+This concludes the basic walkthrough of getting a website up and running without spending money using Ruby, Jekyll, and GitHub Pages.
+
