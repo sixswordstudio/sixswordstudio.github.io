@@ -17,6 +17,7 @@ project_entries:
   - title: Create and Deploy a Website for Free
     url: create-free-website
     desc: How to create and deploy a website using only free tools
+    highlight: NEW
 
   # - title: Walkthrough
     # url: walkthrough
