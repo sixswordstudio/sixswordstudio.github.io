@@ -6,6 +6,12 @@ This guide aims to provide a basic foundation for new users to learn how to depl
 
 **Note: This guide is for MacOS ([13.0](https://en.wikipedia.org/wiki/MacOS_Ventura)) users who have not previously installed Ruby on their computer.**
 
+## Topics in this guide
+- Recommended software
+- Install walkthrough
+- Deploy the website
+- Beyond this guide
+
 ---
 # Recommended software
 
