@@ -2,15 +2,10 @@
 layout: post
 ---
 
-**Note: This guide is specific to MacOS ([13.0](https://en.wikipedia.org/wiki/MacOS_Ventura)) users who have not previously installed Ruby on their computer.**
-# Why make a website
-Building your own website to host a portfolio is a prime way to have complete control of your content. The look and feel of the site is fully in your hands, for better or for worse. The technical challenge is surmountable with the right resources, and this guide aims to bring those resources together for the self-guided learner.
-
-# Who can build it?
-This guide assumes that you have a baseline understanding of the web, but have not taken your own steps yet to build and configure a website. This is a basic walkthrough that takes you from having none of the tools and no experience at the start, to the end goal: an online landing page that other people can visit, using only free tools.
-
+# How to create and deploy a website using free tools
+**Note: This guide is for MacOS ([13.0](https://en.wikipedia.org/wiki/MacOS_Ventura)) users who have not previously installed Ruby on their computer.**
 ---
-# Software tools
+# Recommended software
 
 Install tools **with a user interface** by registering for an account on their website, or by downloading their program from the MacOS App Store. To avoid future errors, drag them out of 'Downloads' and into to the 'Applications' folder.
 
@@ -27,7 +22,7 @@ Install tools **without a user interface** by using commands in the '[Terminal](
 - [Jekyll](https://jekyllrb.com/)
 - [Jekyll theme](https://github.com/abhinavs/moonwalk)
 
-## Install walkthroughs
+## Installation walkthrough
 
 ### Ruby Environment Manager (rbenv)
 In MacOS, there is a native Ruby that will interfere with the project unless Environment Manager is installed. This tool provides commands to control a second install of Ruby in the project folder where the website files are stored.
@@ -143,5 +138,12 @@ At long last! The final step in the process is linking the GitHub repository con
 
 Note: Changes can take up to 10 minutes to update. 
 
-This concludes the basic walkthrough to get a website up and running without spending money using Ruby, Jekyll, and GitHub Pages.
+This concludes the basic walkthrough to get a website up and running without spending money using Ruby, Jekyll, and GitHub Pages. A basic foundation in creating a website that can grow as the user's skillset grows. Build a custom online environment that suits your needs without a paid subscription. 
+
+# Beyond this guide
+Next steps you may consider to take the site to the next level: 
+- Purchase and connect a [Custom domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site) name for the site
+- Explore [Jekyll plugins](https://jekyllrb.com/docs/plugins/) to extend site functionality
+- [Override theme](https://jekyllrb.com/docs/themes/#overriding-theme-defaults) settings for full site customization
+- Add [vector graphics](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web) for site logos, headers, flavicon, etc.
 
