@@ -2,7 +2,7 @@
 layout: post
 ---
 
-For full control of content, hosting, and the look of a website, building from scratch is the best option. The fastest way to get a website up and running is to use a prebuilt theme, tailored to fit the user's needs. This guide aims to provide a foundation for new users to learn how to deploy and make changes to a static website before investing in custom domains and premium software tools. **Note: This guide is for MacOS ([13.0](https://en.wikipedia.org/wiki/MacOS_Ventura)) users who have not previously installed Ruby on their computer.**
+For full control of content, hosting, and the look of a website, building from scratch is the best option. The fastest way to get a website up and running is to use a prebuilt theme, tailored to fit the user's needs. This guide aims to provide a foundation for new users to learn how to deploy and make changes to a static website before investing in paid subscriptions, custom domains and premium software tools. **Note: This guide is for MacOS ([13.0](https://en.wikipedia.org/wiki/MacOS_Ventura)) users who have not previously installed Ruby on their computer.**
 # Recommended software
 
 Install tools **with a user interface** by registering for an account on their website, or by downloading their program from the MacOS App Store. To avoid future errors, drag them out of 'Downloads' and into to the 'Applications' folder.
@@ -56,18 +56,18 @@ rbenv global 3.1.2
 This guide suggests using the ``` global ``` instead of ``` local ``` setting for simplicity and to avoid troubleshooting in the future.
 
 #### Check the install
-- Check your Ruby version using this Terminal command:
+- Check Ruby version using this Terminal command:
 ```
 ruby -v
 ```
 If the output shows an older version of Ruby (2.x.x), this indicates that the environment manager is trying to point the project towards the default OS Ruby. This will result in errors. 
 
-If the output shows the current version of Ruby (3.1.2), this indicates that the environment manager is pointing the project towards the newly installed version of Ruby. You can proceed without errors.
+If the output shows the current version of Ruby (3.1.2), this indicates that the environment manager is pointing the project towards the newly installed version of Ruby. User can proceed without errors.
 
 ### Gems
 Gems are snippets of Ruby code that extend the language in the project file, allowing the files to read and render more functions. 
 
-- Install gems into your project folder:
+- Install gems into the project folder:
 ```
 gem install bundler
 ```
@@ -75,7 +75,7 @@ gem install bundler
 These steps install basic gems required to put a Ruby website online. Find [more Ruby Gems here.](https://rubygems.org/)
 
 #### Check the install 
-The ```gem install bundler``` command should create a new file in your project folder called ```gemfile```.
+The ```gem install bundler``` command should create a new file in the project folder called ```gemfile```.
 
 ### Jekyll
 
@@ -88,12 +88,12 @@ gem install bundler jekyll
 
 ### Jekyll theme
 
-This guide suggests using a prebuilt Jekyll theme as a template for your first project, for speed and simplicity.
+This guide suggests using a prebuilt Jekyll theme as a template for the project, for speed and simplicity.
 
 - On GitHub, navigate to the repository for the [Moonwalk theme](https://github.com/abhinavs/moonwalk)
-- [Fork the repository](https://github.com/abhinavs/moonwalk/fork) to your own GitHub account.
-- Name the repository ```yourusername.github.io``` with your own username in front of .github.io. 
-- From your new forked repository, download the code into the website project folder on your local hard drive
+- [Fork the repository](https://github.com/abhinavs/moonwalk/fork) to user's own GitHub account.
+- Name the repository ```githubusername.github.io``` with GitHub username in front of .github.io. 
+- Download the code from new repository onto local hard drive, into the project folder
 ![github1](/assets/css/github1.png)
 
 The theme selected for sixswordstudio.github.io is free, and serves as an example for this walkthrough. Find [more themes here](https://jamstackthemes.dev/ssg/jekyll/).
@@ -102,10 +102,10 @@ The theme selected for sixswordstudio.github.io is free, and serves as an exampl
 # Editing the theme
 Congratulations on completing the install process.
 
-To begin editing the theme to add your own content to the website:
+Add custom content to the website:
 - Open the project folder using VS Code
 - Read and follow the theme author's instructions on the [GitHub Readme](https://github.com/abhinavs/moonwalk#customizing)
-- Save your work after making changes to the local copy of project files and folders
+- Save after making changes to the local copy of project files and folders
 
 ## Push local changes to the GitHub repository
 - In VS Code, saved changes will trigger a notification in the Source Control tab
@@ -116,19 +116,19 @@ To begin editing the theme to add your own content to the website:
 - Click through to stage and commit changes
 - Click sync
 
-This will push the changes made (and saved) on your local file system to the GitHub repository hosting your code. 
+This will push saved changes from the local file system to the GitHub repository.
 
 # Deploy the website
-At long last! The final step in the process is linking the GitHub repository containing your edited theme code to GitHub Pages.
+Link the GitHub repository to GitHub Pages.
 
 ## GitHub Pages
-- In VS Code, edit the ```_config.yml``` file to reflect the url of your GitHub repo
+- In VS Code, edit the ```_config.yml``` file to reflect the url of the GitHub repo
 ![configurl](/assets/css/configurl.png)
 - Save and push the changes via Source Control tab
 - Navigate to ['GitHub Settings'](https://github.com/settings/profile)
 - Navigate to ['Pages'](https://github.com/settings/pages)
 - Under 'Source', select a source to deploy
-- Choose your repository's main branch
+- Choose the repository's main branch
 
 ### Check the update 
 - Go to the URL specified in the ```_Config.yml``` and GitHub Pages deployment source
@@ -136,10 +136,10 @@ At long last! The final step in the process is linking the GitHub repository con
 
 Note: Changes can take up to 10 minutes to update. 
 
-This concludes the basic walkthrough to get a website up and running without spending money using Ruby, Jekyll, and GitHub Pages. A basic foundation in creating a website that can grow as the user's skillset grows. Build a custom online environment that suits your needs without a paid subscription. 
+This concludes the basic walkthrough to get a website up and running without spending money using Ruby, Jekyll, and GitHub Pages. A basic foundation in creating a website that can grow as the user's skillset grows.
 
 # Beyond this guide
-Next steps you may consider to take the site to the next level: 
+Next steps to level up the website: 
 - Purchase and connect a [Custom domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site) name for the site
 - Explore [Jekyll plugins](https://jekyllrb.com/docs/plugins/) to extend site functionality
 - [Override theme](https://jekyllrb.com/docs/themes/#overriding-theme-defaults) settings for full site customization
