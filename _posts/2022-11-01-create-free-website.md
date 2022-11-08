@@ -2,7 +2,9 @@
 layout: post
 ---
 
-This guide aims to provide a basic foundation for new users to learn how to deploy and make changes to a static website without investing in paid subscriptions, custom domains and premium software tools. **Note: This guide is for MacOS ([13.0](https://en.wikipedia.org/wiki/MacOS_Ventura)) users who have not previously installed Ruby on their computer.**
+This guide aims to provide a basic foundation for new users to learn how to deploy and make changes to a static website without investing in paid subscriptions, custom domains and premium software tools. 
+
+**Note: This guide is for MacOS ([13.0](https://en.wikipedia.org/wiki/MacOS_Ventura)) users who have not previously installed Ruby on their computer.**
 # Recommended software
 
 Install tools **with a user interface** by registering for an account on their website, or by downloading their program from the MacOS App Store. To avoid future errors, drag them out of 'Downloads' and into to the 'Applications' folder.
