@@ -35,31 +35,30 @@ In MacOS, there is a native Ruby installed on every device. We can't use this ve
 
 Installing an Environment Manager resolves this problem. It provides commands to control a second install of Ruby in the project folder where the website files are stored.
 
-    1. Install rbenv by using this Terminal command:
+1. Install rbenv by using this Terminal command:
 
 ```
 brew install rbenv ruby-build 
 ```
 
-    2. Load rbenv into the terminal shell
+2. Load rbenv into the terminal shell
 
 ``` 
 # run this and follow the printed instructions:
 rbenv init
 ```
-    3. Close and re-open the Terminal to apply changes
+3. Close and re-open the Terminal to apply changes
 
 For detailed information about ``` rbenv ``` and in-depth troubleshooting, refer to their [ReadMe](https://github.com/rbenv/rbenv#readme). 
 
 ### Ruby
-Install Ruby using rbenv with this Terminal command:
+1. Install the [latest version](https://www.ruby-lang.org/en/downloads/) of Ruby using rbenv with this Terminal command:
 
 ```
 rbenv install 3.1.2
 ```
-Note: for future, check for [Ruby](https://www.ruby-lang.org/en/downloads/) updates and replace 3.1.2 with the latest version number. 
 
-Set the new Ruby install as 'global'
+2. Set the new Ruby install as 'global'
 ```
 rbenv global 3.1.2
 ```
