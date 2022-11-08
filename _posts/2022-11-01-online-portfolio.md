@@ -20,7 +20,6 @@ Install tools **without a user interface** by using commands in the '[Terminal](
 - [Github](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account)
 - [VS Code](https://code.visualstudio.com/docs?dv=osx)
 
----
 ## Software without UI:
 - [Ruby](https://www.ruby-lang.org/en/)
 - [Ruby Environment Manager (rbenv)](https://www.ruby-lang.org/en/documentation/installation/#rbenv)
@@ -37,16 +36,17 @@ Installing an Environment Manager resolves this problem. It provides commands to
 
 1. Install rbenv by using this Terminal command:
 
-```
-brew install rbenv ruby-build 
-```
+    ```
+    brew install rbenv ruby-build 
+    ```
 
 2. Load rbenv into the terminal shell
 
-``` 
-# run this and follow the printed instructions:
-rbenv init
-```
+    ``` 
+    # run this and follow the printed instructions:
+    rbenv init
+    ```
+
 3. Close and re-open the Terminal to apply changes
 
 For detailed information about ``` rbenv ``` and in-depth troubleshooting, refer to their [ReadMe](https://github.com/rbenv/rbenv#readme). 
