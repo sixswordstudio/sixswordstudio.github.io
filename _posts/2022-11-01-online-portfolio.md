@@ -141,5 +141,7 @@ At long last! The final step in the process is linking the GitHub repository con
 - Go to the URL specified in the ```_Config.yml``` and GitHub Pages deployment source
 - Success! 
 
-This concludes the basic walkthrough of getting a website up and running without spending money using Ruby, Jekyll, and GitHub Pages.
+Note: Changes can take up to 10 minutes to update. 
+
+This concludes the basic walkthrough to get a website up and running without spending money using Ruby, Jekyll, and GitHub Pages.
 
