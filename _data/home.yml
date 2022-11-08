@@ -14,7 +14,7 @@ project_entries:
     url: copy
     desc: Written text that is to be printed or intended to help with the sale of a product.
 
-  - title: Create and Deploy a Website for Free
+  - title: Create and Deploy a Website
     url: create-free-website
     desc: How to create and deploy a website using only free tools
     highlight: NEW
