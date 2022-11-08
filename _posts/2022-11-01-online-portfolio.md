@@ -7,7 +7,7 @@ layout: post
 Building your own website to host a portfolio is a prime way to have complete control of your content. The look and feel of the site is fully in your hands, for better or for worse. The technical challenge is surmountable with the right resources, and this guide aims to bring those resources together for the self-guided learner.
 
 # Who can build it?
-This guide assumes that you have a baseline understanding of the web, but have not taken your own steps yet to build and configure a website. This is a basic walkthrough that takes you from having none of the tools and no experience at the start, to the end goal: an online landing page that other people can visit. Any extra features and dynamic functions are beyond the scope of this guide, but we will link out to next steps you can pursue once you've got a website up and running.  
+This guide assumes that you have a baseline understanding of the web, but have not taken your own steps yet to build and configure a website. This is a basic walkthrough that takes you from having none of the tools and no experience at the start, to the end goal: an online landing page that other people can visit, using only free tools.
 
 ---
 # Software tools
@@ -74,24 +74,55 @@ If the output shows the current version of Ruby (3.1.2), this indicates that the
 ### Gems
 Gems are snippets of Ruby code that extend the language in the project file, allowing the files to read and render more functions. 
 
-For this guide, we are installing only the basic gems required to put a Ruby website online. 
-
 - Install gems into your project folder:
 ```
 gem install bundler
 ```
 
+These steps install basic gems required to put a Ruby website online. Find [more Ruby Gems here.](https://rubygems.org/)
+
 #### Check the install 
-The ```gem install bundler``` command will create a new file in your project folder called ```gemfile```
+The ```gem install bundler``` command should create a new file in your project folder called ```gemfile```.
 
 ### Jekyll
 
 Jekyll is the most important Ruby gem in the website project. It is the engine that transforms plain text into a static website. It is fully compatible with the free site deployment tool chosen for this project, GitHub Pages.
 
-Install the Jekyll gem:
-
-``` gem install bundler jekyll ```
+- Install the Jekyll gem:
+``` 
+gem install bundler jekyll 
+```
 
 ### Jekyll theme
 
-To get the website up as fast as possible, this guide suggests using a prebuilt Jekyll theme as a template for the website project. 
+This guide suggests using a prebuilt Jekyll theme as a template for your first project, for speed and simplicity.
+
+- On GitHub, navigate to the repository for the [Moonwalk theme](https://github.com/abhinavs/moonwalk)
+- [Fork the repository](https://github.com/abhinavs/moonwalk/fork) to your own GitHub account.
+- From your new forked repository, download the code into the website project folder on your local hard drive
+![github1](/assets/css/github1.png)
+
+The theme selected for sixswordstudio.github.io is free, and serves as an example for this walkthrough. Find [more themes here](https://jamstackthemes.dev/ssg/jekyll/).
+
+---
+# Editing the theme
+Congratulations on completing the install process.
+
+To begin editing the theme to add your own content to the website:
+- Open the project folder using VS Code
+- Read and follow the theme author's instructions on the [GitHub Readme](https://github.com/abhinavs/moonwalk#customizing)
+- Save your work after making changes to the local copy of project files and folders
+
+## Push local changes to the GitHub repository
+- In VS Code, saved changes will trigger a notification in the Source Control tab
+![vscode1](/assets/css/vscode1.png)
+- Write a short description in the Message box
+![vscode2](/assets/css/vscode2.png)
+- Click commit
+- Click through to stage and commit changes
+- Click sync
+
+This will push the changes made (and saved) on your local file system to the GitHub repository hosting your code. 
+
+# Deploy the website
+At long last
