@@ -22,9 +22,10 @@ Install tools **without a user interface** by using commands in the '[Terminal](
 - [Jekyll](https://jekyllrb.com/)
 - [Jekyll theme](https://github.com/abhinavs/moonwalk)
 
-## Installation walkthrough
+---
+# Installation walkthrough
 
-### Ruby Environment Manager (rbenv)
+## Ruby Environment Manager (rbenv)
 In MacOS, there is a native Ruby that will interfere with the project unless Environment Manager is installed. This tool provides commands to control a second install of Ruby in the project folder where the website files are stored.
 
 -  Install rbenv by using this Terminal command:
@@ -44,7 +45,7 @@ In MacOS, there is a native Ruby that will interfere with the project unless Env
 
 For detailed information about ``` rbenv ``` and in-depth troubleshooting, refer to their [ReadMe](https://github.com/rbenv/rbenv#readme). 
 
-### Ruby
+## Ruby
 - Install the [latest version](https://www.ruby-lang.org/en/downloads/) of Ruby using rbenv with this Terminal command:
 ```
 rbenv install 3.1.2
@@ -57,7 +58,7 @@ rbenv global 3.1.2
 
 This guide suggests using the ``` global ``` instead of ``` local ``` setting for simplicity and to avoid troubleshooting in the future.
 
-#### Check the install
+### Check the install
 - Check Ruby version using this Terminal command:
 ```
 ruby -v
@@ -66,7 +67,9 @@ If the output shows an older version of Ruby (2.x.x), this indicates that the en
 
 If the output shows the current version of Ruby (3.1.2), this indicates that the environment manager is pointing the project towards the newly installed version of Ruby. User can proceed without errors.
 
-### Gems
+---
+
+## Gems
 Gems are snippets of Ruby code that extend the language in the project file, allowing the files to read and render more functions. 
 
 - Install gems into the project folder:
@@ -79,7 +82,8 @@ These steps install basic gems required to put a Ruby website online. Find [more
 #### Check the install 
 The ```gem install bundler``` command should create a new file in the project folder called ```gemfile```.
 
-### Jekyll
+---
+## Jekyll
 
 Jekyll is the most important Ruby gem in the website project. It is the engine that transforms plain text into a static website. It is fully compatible with the free site deployment tool chosen for this project, GitHub Pages.
 
@@ -88,7 +92,7 @@ Jekyll is the most important Ruby gem in the website project. It is the engine t
 gem install bundler jekyll 
 ```
 
-### Jekyll theme
+## Jekyll theme
 
 This guide suggests using a prebuilt Jekyll theme as a template for the project, for speed and simplicity.
 
