@@ -4,6 +4,7 @@ layout: post
 
 # How to create and deploy a website using free tools
 **Note: This guide is for MacOS ([13.0](https://en.wikipedia.org/wiki/MacOS_Ventura)) users who have not previously installed Ruby on their computer.**
+
 ---
 # Recommended software
 
