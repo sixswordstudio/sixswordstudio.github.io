@@ -140,10 +140,10 @@ Link the GitHub repository to GitHub Pages.
 
 Note: Changes can take up to 10 minutes to update. 
 
-This concludes the basic walkthrough to get a website up and running without spending money using Ruby, Jekyll, and GitHub Pages. A basic foundation in creating a website that can grow as the user's skillset grows.
-
 ---
 # Beyond this guide
+This concludes the basic walkthrough to get a website up and running without spending money using Ruby, Jekyll, and GitHub Pages. A basic foundation in creating a website that can grow as the user's skillset grows.
+
 Next steps to level up the website: 
 - Purchase and connect a [Custom domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site) name for the site
 - Explore [Jekyll plugins](https://jekyllrb.com/docs/plugins/) to extend site functionality
