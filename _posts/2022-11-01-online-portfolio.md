@@ -25,7 +25,8 @@ Install tools **without a user interface** by using commands in the '[Terminal](
 - [Ruby](https://www.ruby-lang.org/en/)
 - [Ruby Environment Manager (rbenv)](https://www.ruby-lang.org/en/documentation/installation/#rbenv)
 - [Gems](https://jekyllrb.com/docs/ruby-101/#gems)
-- [Jekyll](https://jekyllrb.com/) 
+- [Jekyll](https://jekyllrb.com/)
+- [Jekyll theme](https://github.com/abhinavs/moonwalk)
 
 ## Install walkthroughs
 
@@ -33,8 +34,6 @@ Install tools **without a user interface** by using commands in the '[Terminal](
 In MacOS, there is a native Ruby installed on every device. We can't use this version of Ruby or it will break things in the computer. 
 
 Installing an Environment Manager resolves this problem. It provides commands to control a second install of Ruby in the project folder where the website files are stored.
-
-For detailed information about ``` rbenv ``` and how it works, refer to their [ReadMe](https://github.com/rbenv/rbenv#readme). 
 
 1. Install rbenv by using this Terminal command:
 
@@ -46,7 +45,9 @@ For detailed information about ``` rbenv ``` and how it works, refer to their [R
 # run this and follow the printed instructions:
 rbenv init
 ```
-3. Close and re-open the Terminal
+3. Close and re-open the Terminal to apply changes
+
+For detailed information about ``` rbenv ``` and in-depth troubleshooting, refer to their [ReadMe](https://github.com/rbenv/rbenv#readme). 
 
 ### Ruby
 Install Ruby using rbenv with this Terminal command:
@@ -73,4 +74,24 @@ If the output shows an older version of Ruby (2.x.x), this indicates that the en
 If the output shows the current version of Ruby (3.1.2), this indicates that the environment manager is pointing the project towards the newly installed version of Ruby. You can proceed without errors.
 
 ### Gems
-Install gems into your project folder. 
+Gems are snippets of Ruby code that extend the language in the project file, allowing the files to read and render more functions. 
+
+For this guide, we are installing only the basic gems required to put a Ruby website online. 
+
+Install gems into your project folder:
+
+```
+gem install bundler
+```
+
+#### Check the install 
+The ```gem install bundler``` command will create a new file in your project folder called ```gemfile```
+
+### Jekyll
+
+Jekyll is the most important Ruby gem in our website project. It is the engine that transforms plain text into a static website. It is fully compatible with the free site deployment tool chosen for this project, GitHub Pages.
+
+Install the Jekyll gem:
+
+``` gem install bundler jekyll ```
+
