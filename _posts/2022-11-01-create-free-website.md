@@ -2,7 +2,7 @@
 layout: post
 ---
 
-This guide aims to provide a foundation for new users to learn how to deploy and make changes to a static website without investing in paid subscriptions, custom domains and premium software tools. **Note: This guide is for MacOS ([13.0](https://en.wikipedia.org/wiki/MacOS_Ventura)) users who have not previously installed Ruby on their computer.**
+This guide aims to provide a basic foundation for new users to learn how to deploy and make changes to a static website without investing in paid subscriptions, custom domains and premium software tools. **Note: This guide is for MacOS ([13.0](https://en.wikipedia.org/wiki/MacOS_Ventura)) users who have not previously installed Ruby on their computer.**
 # Recommended software
 
 Install tools **with a user interface** by registering for an account on their website, or by downloading their program from the MacOS App Store. To avoid future errors, drag them out of 'Downloads' and into to the 'Applications' folder.
@@ -118,6 +118,8 @@ Add custom content to the website:
 
 This will push saved changes from the local file system to the GitHub repository.
 
+---
+
 # Deploy the website
 Link the GitHub repository to GitHub Pages.
 
@@ -138,6 +140,7 @@ Note: Changes can take up to 10 minutes to update.
 
 This concludes the basic walkthrough to get a website up and running without spending money using Ruby, Jekyll, and GitHub Pages. A basic foundation in creating a website that can grow as the user's skillset grows.
 
+---
 # Beyond this guide
 Next steps to level up the website: 
 - Purchase and connect a [Custom domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site) name for the site
