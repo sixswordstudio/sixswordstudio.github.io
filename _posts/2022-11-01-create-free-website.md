@@ -24,6 +24,8 @@ Install tools **without a user interface** by using commands in the '[Terminal](
 
 ---
 # Installation walkthrough
+Create a project folder on the local hard drive.
+![projectfolder](/assets/css/projectfolder.png)
 
 ## Ruby Environment Manager (rbenv)
 In MacOS, there is a native Ruby that will interfere with the project unless Environment Manager is installed. This tool provides commands to control a second install of Ruby in the project folder where the website files are stored.
@@ -70,7 +72,7 @@ If the output shows the current version of Ruby (3.1.2), this indicates that the
 ---
 
 ## Gems
-Gems are snippets of Ruby code that extend the language in the project file, allowing the files to read and render more functions. 
+Gems are snippets of Ruby code that extend the language in the project, allowing for more complex functions. 
 
 - Install gems into the project folder:
 ```
@@ -79,7 +81,7 @@ gem install bundler
 
 These steps install basic gems required to put a Ruby website online. Find [more Ruby Gems here.](https://rubygems.org/)
 
-#### Check the install 
+### Check the install 
 The ```gem install bundler``` command should create a new file in the project folder called ```gemfile```.
 
 ---
