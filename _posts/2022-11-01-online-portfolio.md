@@ -30,9 +30,7 @@ Install tools **without a user interface** by using commands in the '[Terminal](
 ## Install walkthroughs
 
 ### Ruby Environment Manager (rbenv)
-In MacOS, there is a native Ruby installed on every device. We can't use this version of Ruby or it will break things in the computer. 
-
-Installing an Environment Manager resolves this problem. It provides commands to control a second install of Ruby in the project folder where the website files are stored.
+In MacOS, there is a native Ruby that will interfere with the project unless Environment Manager is installed. This tool provides commands to control a second install of Ruby in the project folder where the website files are stored.
 
 -  Install rbenv by using this Terminal command:
 
@@ -53,7 +51,6 @@ For detailed information about ``` rbenv ``` and in-depth troubleshooting, refer
 
 ### Ruby
 - Install the [latest version](https://www.ruby-lang.org/en/downloads/) of Ruby using rbenv with this Terminal command:
-
 ```
 rbenv install 3.1.2
 ```
@@ -62,11 +59,11 @@ rbenv install 3.1.2
 ```
 rbenv global 3.1.2
 ```
+
 This guide suggests using the ``` global ``` instead of ``` local ``` setting for simplicity and to avoid troubleshooting in the future.
 
 #### Check the install
 - Check your Ruby version using this Terminal command:
-
 ```
 ruby -v
 ```
@@ -80,7 +77,6 @@ Gems are snippets of Ruby code that extend the language in the project file, all
 For this guide, we are installing only the basic gems required to put a Ruby website online. 
 
 - Install gems into your project folder:
-
 ```
 gem install bundler
 ```
@@ -96,3 +92,6 @@ Install the Jekyll gem:
 
 ``` gem install bundler jekyll ```
 
+### Jekyll theme
+
+To get the website up as fast as possible, this guide suggests using a prebuilt Jekyll theme as a template for the website project. 
