@@ -2,9 +2,9 @@
 layout: post
 ---
 
-This guide aims to provide a basic foundation for new users to learn how to deploy and make changes to a static website without investing in paid subscriptions, custom domains and premium software tools. 
+This guide aims to provide a basic foundation for new users to learn how to deploy and make changes to a static website without investing in paid subscriptions, custom domains and premium software tools.
 
-**Note: This guide is for MacOS ([13.0](https://en.wikipedia.org/wiki/MacOS_Ventura)) users who have not previously installed Ruby on their computer.**
+**Note: This guide is for MacOS ([13.0](https://en.wikipedia.org/wiki/MacOS_Ventura)) users who have not installed Ruby on their computer.**
 
 ## Topics in this guide
 - Recommended software
@@ -17,7 +17,7 @@ This guide aims to provide a basic foundation for new users to learn how to depl
 
 Install tools **with a user interface** by registering for an account on their website, or by downloading their program from the MacOS App Store. To avoid future errors, drag them out of 'Downloads' and into to the 'Applications' folder.
 
-Install tools **without a user interface** by using commands in the '[Terminal](https://support.apple.com/en-ca/guide/terminal/apd5265185d-f365-44cb-8b09-71a064a42125/mac)'. 
+Install tools **without a user interface** by using commands in the '[Terminal](https://support.apple.com/en-ca/guide/terminal/apd5265185d-f365-44cb-8b09-71a064a42125/mac)'.
 ## Software with UI:
 - [MacOS 13 Ventura](https://support.apple.com/en-ca/HT201541)
 - [Github](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account)
@@ -36,24 +36,24 @@ Create a project folder on the local hard drive.
 ![projectfolder](/assets/css/projectfolder.png)
 
 ## Ruby Environment Manager (rbenv)
-In MacOS, there is a native Ruby that will interfere with the project unless Environment Manager is installed. This tool provides commands to control a second install of Ruby in the project folder where the website files are stored.
+In MacOS, there is a native Ruby that will interfere with the project unless the user installs an Environment Manager. This tool provides commands to control a second install of Ruby in the project folder where the environment manager installs website files.
 
 -  Install rbenv by using this Terminal command:
 
     ```
-    brew install rbenv ruby-build 
+    brew install rbenv ruby-build
     ```
 
 -  Load rbenv into the terminal shell
 
-    ``` 
+    ```
     # run this and follow the printed instructions:
     rbenv init
     ```
 
 - Close and re-open the Terminal to apply changes
 
-For detailed information about ``` rbenv ``` and in-depth troubleshooting, refer to their [ReadMe](https://github.com/rbenv/rbenv#readme). 
+For detailed information about ``` rbenv ``` and in-depth troubleshooting, refer to their [ReadMe](https://github.com/rbenv/rbenv#readme).
 
 ## Ruby
 - Install the [latest version](https://www.ruby-lang.org/en/downloads/) of Ruby using rbenv with this Terminal command:
@@ -74,14 +74,14 @@ This guide suggests using the ``` global ``` instead of ``` local ``` setting fo
 ruby -v
 ```
 
-If the output shows an older version of Ruby (2.x.x), this indicates that the environment manager is trying to point the project towards the default OS Ruby. This will result in errors. 
+If the output shows an older version of Ruby (2.x.x), this indicates that the environment manager is trying to point the project towards the default OS Ruby. This will result in errors.
 
 If the output shows the current version of Ruby (3.1.2), this indicates that the environment manager is pointing the project towards the newly installed version of Ruby. User can proceed without errors.
 
 ---
 
 ## Gems
-Gems are snippets of Ruby code that extend the language in the project, allowing for more complex functions. 
+Gems are snippets of Ruby code that extend the language in the project, allowing for more complex functions.
 
 - Install gems into the project folder:
 ```
@@ -90,17 +90,17 @@ gem install bundler
 
 These steps install basic gems required to put a Ruby website online. Find [more Ruby Gems here.](https://rubygems.org/)
 
-### Check the install 
+### Check the install
 The ```gem install bundler``` command should create a new file in the project folder called ```gemfile```.
 
 ---
 ## Jekyll
 
-Jekyll is the most important Ruby gem in the website project. It is the engine that transforms plain text into a static website. It is fully compatible with the free site deployment tool chosen for this project, GitHub Pages.
+Jekyll is the most important Ruby gem in the website project, the engine that transforms plain text into a static website, and is fully compatible with the free site deployment tool chosen for this project, GitHub Pages.
 
 - Install the Jekyll gem:
-``` 
-gem install bundler jekyll 
+```
+gem install bundler jekyll
 ```
 
 ## Jekyll theme
@@ -109,7 +109,7 @@ This guide suggests using a prebuilt Jekyll theme as a template for the project,
 
 - On GitHub, navigate to the repository for the [Moonwalk theme](https://github.com/abhinavs/moonwalk)
 - [Fork the repository](https://github.com/abhinavs/moonwalk/fork) to user's own GitHub account.
-- Name the repository ```githubusername.github.io``` with GitHub username in front of .github.io. 
+- Name the repository ```githubusername.github.io``` with GitHub username in front of .github.io.
 - Download the code from new repository onto local hard drive, into the project folder
 ![github1](/assets/css/github1.png)
 
@@ -149,19 +149,18 @@ Link the GitHub repository to GitHub Pages.
 - Under 'Source', select a source to deploy
 - Choose the repository's main branch
 
-### Check the update 
+### Check the update
 - Go to the URL specified in the ```_Config.yml``` and GitHub Pages deployment source
-- Success! 
+- Success!
 
-Note: Changes can take up to 10 minutes to update. 
+Note: Changes can take up to 10 minutes to update.
 
 ---
 # Beyond this guide
 This concludes the basic walkthrough to get a website up and running without spending money using Ruby, Jekyll, and GitHub Pages. A basic foundation in creating a website that can grow as the user's skillset grows.
 
-Next steps to level up the website: 
-- Purchase and connect a [Custom domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site) name for the site
+Next steps to level up the website:
+- Connect a [Custom domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site) name for the site
 - Explore [Jekyll plugins](https://jekyllrb.com/docs/plugins/) to extend site functionality
 - [Override theme](https://jekyllrb.com/docs/themes/#overriding-theme-defaults) settings for full site customization
 - Add [vector graphics](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web) for site logos, headers, flavicon, etc.
-
