@@ -3,18 +3,37 @@ layout: default
 ---
 
 <header>
-{% if site.theme_config.show_navbar == true %}
-  {% include horizontal_list.html collection=site.data.home.navbar_entries %}
-  <div class="dashed"></div>
-{% endif %}
+  {% comment %}
+  This section checks if the navbar should be shown, as configured in your site's settings.
+  If yes, it includes the horizontal_list.html with your navbar entries.
+  {% endcomment %}
+  {% if site.theme_config.show_navbar == true %}
+    {% include horizontal_list.html collection=site.data.home.navbar_entries %}
+    <div class="dashed"></div>
+  {% endif %}
 
+  {% comment %}
+  Displays the site title. This is typically set in your _config.yml file.
+  {% endcomment %}
   <h1>{{ site.title }}</h1>
+
+  {% comment %}
+  Checks if the site description should be shown, and if yes, displays it.
+  {% endcomment %}
   {% if site.theme_config.show_description == true %}
     <p>{{ site.description }}</p>
   {% endif %}
 </header>
 
+{% comment %}
+This outputs the main content of the page.
+{% endcomment %}
 {{ content }}
+
+{% comment %}
+Below are conditional sections that will display only if the respective
+features are enabled in your site's configuration.
+{% endcomment %}
 
 {% if site.theme_config.show_projects == true %}
   <h2>{{ site.theme_config.home.title_projects }}</h2>
@@ -34,12 +53,4 @@ layout: default
 {% if site.theme_config.show_old_projects == true %}
   <h2>{{ site.theme_config.home.title_old_projects }}</h2>
   {% include card_list.html collection=site.data.home.old_project_entries %}
-{% endif %}
-
-
-{% if site.theme_config.show_footer == true %}
-  <footer>
-    <div class="dashed"></div>
-    {% include horizontal_list.html collection=site.data.home.footer_entries %}
-  </footer>
 {% endif %}

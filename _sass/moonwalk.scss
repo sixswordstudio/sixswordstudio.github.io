@@ -10,6 +10,7 @@ body {
   margin: 0;
   min-height: 100%;
 }
+
 pre, code {
   font-family: "Anonymous Pro", "Courier New", monospace;
   font-size: 0.9rem;
@@ -79,11 +80,15 @@ html {
       --headings: #74c0fc;
       --links: #91A7FF;
       --highlight: #41C7C7;
-      --bg: #1f242A;
+      --bg-start: #020000; // Starting color of the gradient
+      --bg-end: #323945; // Ending color of the gradient
       --bg-secondary: #323945;
       --text: #adb5bd;
       --code-text: #91A7FF;
       --share-text: #C4C4C4;
+
+      background: linear-gradient(var(--bg-start), var(--bg-end));
+      color: var(--text);
   };
 }
 html[data-theme="dark"] { @include dark-appearance; }
