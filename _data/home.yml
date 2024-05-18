@@ -12,7 +12,8 @@ project_entries:
 
   - title: Apply AI principles to KM
     url: applying-gan-principles-to-knowledge-management-in-business
-    desc: How GAN techniques can inspire KM business strategy. 
+    desc: How GAN techniques can inspire KM business strategy.
+    highlight: NEW 
   
   # - title: Copy
     # url: copy
@@ -21,7 +22,6 @@ project_entries:
   - title: Create and Deploy a Website
     url: create-free-website
     desc: How to create and deploy a website using only free tools
-    highlight: NEW
 
   # - title: Walkthrough
     # url: walkthrough
