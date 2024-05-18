@@ -1,7 +1,6 @@
 ---
 layout: post
 ---
-# Applying GAN Principles to Knowledge Management in Business
 One unexpected outcome of the rise in AI is the research and validation being done to improve model training. What this author has noticed as a knowledge management professional is that _model training and validation techniques_ can be logical and applicable as guiding principles for human practicing knowledge management too. 
 
 Managing information effectively has always been crucial, and therehave a ton of evidence and concrete best practices to reference when developing a business strategy for managing knowledge at scale. 
