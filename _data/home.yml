@@ -9,7 +9,6 @@ project_entries:
   - title: API Documentation
     url: api-docs
     desc: My approach to API docs
-    highlight: NEW 
 
   # - title: Apply AI principles to KM
     # url: applying-gan-principles-to-knowledge-management-in-business
@@ -33,9 +32,9 @@ project_entries:
     # desc: Frequently asked questions
     # highlight: WIP
 
-  - # title: Critical Analysis
-    # url: critical-analysis
-    # desc: Winner of Kim Moes Award at Vancouver Island University 2014
+  -  title: Critical Analysis
+    url: critical-analysis
+    desc: Winner of Kim Moes Award at Vancouver Island University 2014
 
 # old_project_entries:
   # - title: Soopr
