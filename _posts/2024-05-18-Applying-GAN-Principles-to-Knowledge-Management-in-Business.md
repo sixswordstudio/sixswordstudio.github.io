@@ -50,8 +50,8 @@ Different product domain teams gain recognition and compete to have the highest 
 - Increased innovation due to the challenge of meeting high standards.
 - Scores can be measured and tracked as a health metric or KPI
 
-## Implementation Steps
-Establishing a culture of knowledge sharing at your company could look like:
+## How to implement?
+These are ways we could apply these concepts in a practical way to deepen or establish a healthy culture of knowledge sharing.
 
 **1. Define the Roles and Responsibilities:** Clearly outline what each team is responsible for in the knowledge creation and review process. Bake knowledge management into the job descriptions and expectations, then reward people for doing their job or going above and beyond.
 
