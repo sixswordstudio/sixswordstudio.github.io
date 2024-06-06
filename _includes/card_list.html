@@ -1,26 +1,26 @@
 <ul class="horizontal-list">
   {% for item in include.collection %}
+    {% if item.title and item.url and item.desc %}
+      <li class="card">
+        <a href="{{ item.url }}">
+          <span class="header">
+            {{ item.title }}
 
-    <li class="card">
-      <a href="{{ item.url }}">
-        <span class="header">
-          {{ item.title }}
+            {% if item.highlight %}
+              <mark>{{ item.highlight }}</mark>
+            {% endif %}
 
-          {% if item.highlight %}
-            <mark>{{ item.highlight }}</mark>
+          </span>
+
+          <hr/>
+
+          {% if item.desc != false %}
+            <p class="body">
+              {{ item.desc }}
+            </p>
           {% endif %}
-
-        </span>
-
-        <hr />
-
-        {% if item.desc != false %}
-        <p class="body">
-          {{ item.desc }}
-        </p>
-        {% endif %}
-      </a>
-    </li>
-
+        </a>
+      </li>
+    {% endif %}
   {% endfor %}
 </ul>

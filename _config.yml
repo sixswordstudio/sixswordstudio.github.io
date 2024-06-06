@@ -2,11 +2,8 @@ title: Technical Writing Portfolio
 author: Amy Park
 url: https://sixswordstudio.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Amy Park is a Technical Writer for a mid-sized Canadian SaaS B2B. 
+  Amy Park is an experienced UX and Technical Writer based in Ontario, Canada. With expertise in simplifying complex technical information, she excels in content development and user engagement. Amy is pursuing a BA in Liberal Studies/English and is proficient in various software tools, including B2B SaaS, and is certified in AI Fundamentals.
 
-  At work, she writes release notes, help documentation, UI text, and lots of Slack messaages.
-
-  At home, she writes creative nonfiction, draws, paints, sews, and nerds out on Tech Threads.
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
