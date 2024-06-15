@@ -35,21 +35,37 @@ Below are conditional sections that will display only if the respective
 features are enabled in your site's configuration.
 {% endcomment %}
 
+{% comment %}
+If 'show_projects' is enabled in the site's theme configuration, display the projects section.
+It includes the card_list.html template with project entries data.
+{% endcomment %}
 {% if site.theme_config.show_projects == true %}
   <h2>{{ site.theme_config.home.title_projects }}</h2>
   {% include card_list.html collection=site.data.home.project_entries %}
 {% endif %}
 
+{% comment %}
+If 'show_misc_list' is enabled in the site's theme configuration, display the miscellaneous list section.
+It includes the vertical_list.html template with miscellaneous entries data.
+{% endcomment %}
 {% if site.theme_config.show_misc_list == true %}
   <h2>{{ site.theme_config.home.title_misc_list }}</h2>
   {% include vertical_list.html collection=site.data.home.misc_entries %}
 {% endif %}
 
+{% comment %}
+If 'show_blog' is enabled in the site's theme configuration, display the blog section.
+It includes the post_list.html template.
+{% endcomment %}
 {% if site.theme_config.show_blog == true %}
   <h2>{{ site.theme_config.home.title_blog }}</h2>
   {% include post_list.html %}
 {% endif %}
 
+{% comment %}
+If 'show_old_projects' is enabled in the site's theme configuration, display the old projects section.
+It includes the card_list.html template with old project entries data.
+{% endcomment %}
 {% if site.theme_config.show_old_projects == true %}
   <h2>{{ site.theme_config.home.title_old_projects }}</h2>
   {% include card_list.html collection=site.data.home.old_project_entries %}
