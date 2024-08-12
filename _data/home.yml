@@ -11,22 +11,25 @@ project_entries:
     desc: My approach to API docs
     highlight: NEW 
 
-  # - title: Apply AI principles to KM
-    # url: applying-gan-principles-to-knowledge-management-in-business
-    # desc: How GAN techniques can inspire KM business strategy.
+  - title: How Funerals Shaped my Career
+    url: How-funerals-shaped-my-career
+    desc: A more in-depth story of "why" my career took this shape
+    highlight: NEW
   
-  # - title: Copy
-    # url: copy
-    # desc: Written text that is to be printed or intended to help with the sale of a product.
+  - title: My Kaizen Technical Writing
+    url: My-Kaizen-Technical-Writing
+    desc: A description of my current approach to documentation
+    highlight: NEW
 
   - title: Create and Deploy a Website
     url: create-free-website
     desc: How to create and deploy a website using only free tools
+    highlight: NEW
 
-  # - title: Walkthrough
-    # url: walkthrough
-    # desc: Portrait painting from start to finish
-    # highlight: WIP
+  # - title: 3rd Party Documentation
+    # url: Documenting-3rd-party-tools.md
+    # desc: Describing the challenges of, and techniques for, documenting third party tools
+    # highlight: NEW
 
   # - title: FAQ
     # url: f-a-q
