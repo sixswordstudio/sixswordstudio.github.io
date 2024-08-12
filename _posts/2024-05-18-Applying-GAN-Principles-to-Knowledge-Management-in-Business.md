@@ -64,3 +64,6 @@ These are ways we could apply these concepts in a practical way to deepen or est
 ---
 
 Businesses can profit from the new developments in AI by applying the principles of adverserial training technique at a higher conceptual level. By adapting the technique as a knowledge management strategy, the business as a whole will be able to scale their knowledge over a short period of time as the company grows. Turn bottlenecks into opportunities and un-bog developers. Why let machines have all the benefits of advancements in machine learning, when the same logic can be transferred and applied outside of a computer programming context?
+
+---
+2024-08-11
