@@ -12,12 +12,12 @@ project_entries:
     highlight: NEW 
 
   - title: How Funerals Shaped my Career
-    url: How-funerals-shaped-my-career
+    url: how-funerals-shaped-my-career
     desc: A more in-depth story of "why" my career took this shape
     highlight: NEW
   
   - title: My Kaizen Technical Writing
-    url: My-Kaizen-Technical-Writing
+    url: my-kaizen-technical-writing
     desc: A description of my current approach to documentation
     highlight: NEW
 
