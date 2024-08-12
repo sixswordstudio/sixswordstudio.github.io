@@ -8,7 +8,7 @@ navbar_entries:
 project_entries:
   - title: API Documentation
     url: api-docs
-    desc: My approach to API docs
+    desc: An introduction to API and API documentation
     highlight: NEW 
 
   - title: How Funerals Shaped my Career
@@ -23,8 +23,7 @@ project_entries:
 
   - title: Create and Deploy a Website
     url: create-free-website
-    desc: How to create and deploy a website using only free tools
-    highlight: NEW
+    desc: An example of technical documentation on the topic of creating and deploying a website, using only free tools
 
   # - title: 3rd Party Documentation
     # url: Documenting-3rd-party-tools.md
