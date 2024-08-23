@@ -14,12 +14,14 @@ project_entries:
   - title: How Funerals Shaped my Career
     url: how-funerals-shaped-my-career
     desc: A more in-depth story of "why" my career took this shape
-    highlight: NEW
-  
+
+  - title: Building a Balanced Career
+    url: career-reflection-part-2-building-balance
+    desc: Part 2 of the career reflection series, looking ahead.
+
   - title: My Kaizen Technical Writing
     url: my-kaizen-technical-writing
     desc: A description of my current approach to documentation
-    highlight: NEW
 
   - title: Create and Deploy a Website
     url: create-free-website
