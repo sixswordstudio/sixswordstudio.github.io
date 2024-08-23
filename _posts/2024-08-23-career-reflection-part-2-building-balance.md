@@ -7,13 +7,7 @@ In this article, I posit that the pursuit of a balanced life, where career and p
 
 There is nothing as powerful as perspective. Nearly ten years after my time in funeral service, and seven years after starting a technical writing career, I have data to look back on. And I have a vision for the decade ahead.
 
-While data is often seen as cold and detached, it can also tell a compelling story. Without a complete set of data, how can we understand the full story? And without the full story, how can we make wise decisions? _How I feel_ is a valid data point, and there's nothing more personal than that. 
-
-> Whenever Apaches describe the land — or, as happens more frequently, **whenever they tell stories about incidents that have occurred at specific points upon it — they take steps to constitute it in relation to themselves. Which is simply to observe that in acts of speech, mundane and otherwise, Apaches fashion images and understandings of the land that are accepted as credible accounts of what it actually is, why it is significant,** and how it impinges on the daily lives of men and women.   
-> In short, portions of a world view are constructed and made available, and a Western Apache version of the landscape is deepened, amplified, and tacitly affirmed. **With words, a massive physical presence is fashioned into a meaningful human universe.**  
-— _Keith Basso_, Wisdom Sits in Places
-
-This insight from Keith Basso highlights the power of narrative and how it shapes our understanding of the world around us. Just as the Apache people use stories to create a meaningful relationship with their environment, I’ve come to understand that my own career journey is also a narrative—one that I actively shape through the choices I make and the values I uphold. Recognizing this has allowed me to see my career not just as a series of jobs, but as a meaningful path toward both personal fulfillment and professional sustainability.
+While data is often seen as cold and detached, it can also tell a compelling story. Without a complete set of data, how can we understand the full story? And without the full story, how can we make wise decisions? How I feel is a valid data point, and there's nothing more personal than that. This understanding has helped me view my career not just as a series of jobs but as a meaningful journey. Every choice I make, whether driven by personal needs or professional aspirations, is a step toward creating a balanced and fulfilling life. By embracing both the emotional and analytical aspects of decision-making, I have been able to navigate my career path with intention and purpose.
 
 ### Seeking sustainability
 
