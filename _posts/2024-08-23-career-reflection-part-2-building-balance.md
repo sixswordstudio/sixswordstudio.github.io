@@ -30,6 +30,6 @@ Over the past decade, I’ve thrived on change, adapting like Shackleton navigat
 ### Building the balance
 Reflecting on my journey, I see that achieving balance is not just a goal but an ongoing process of adjustment and growth. For me, true balance means finding fulfillment in my career while also nurturing passions and projects beyond work and family. Whether it's through personal writing or other creative pursuits, these activities are essential to my self-actualization—they are what make life rich and meaningful beyond the professional and home spheres. I intend to make the most of every day, knowing that the opportunities I embrace in the next few years will shape my future and determine whether a balanced life is truly possible..
 
-_Thank you for reading and sharing in my journey. As you reflect on your own path, what does balance mean to you, and how do you strive to achieve it in your daily life? I would love to connect and hear about your experiences and thoughts as well. Get in touch via LinkedIn or email me: 4my.p4rk@gmail.com._
+_Thank you for reading and sharing in my journey. As you reflect on your own path, what does balance mean to you, and how do you strive to achieve it in your daily life? I would love to connect and hear about your experiences and thoughts as well. Get in touch via LinkedIn._
 
 — Amy
