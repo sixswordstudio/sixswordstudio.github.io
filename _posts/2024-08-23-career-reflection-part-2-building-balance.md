@@ -16,7 +16,7 @@ With this perspective in mind, I believe it is wise for me to seek a profession 
 For over ten years, I've been doing 'more for less,' providing great value, and digging deep to find a path beyond mere survival. I want more than just survival; I want to thrive. Thriving means having the resources to care for my disabled mother, buy a home, and start my own family—all of which require a salary that matches my experience and skills.
 
 ### The importance of stability
-Early in my career, I faced burnout from overwork and under-compensation. This experience taught me that true sustainability isn't just about gaining more experience by doing more; it's about creating a balanced loop of fulfilling job responsibilities that support long-term success and well-being for myself, clients, the company, and all stakeholders. 
+Early in my career, I learned the importance of balancing workload and compensation to avoid burnout. This taught me that sustainability isn't just about gaining experience but about finding a balanced role that supports long-term success and well-being for everyone involved. Myself, clients, the company, and all stakeholders benefit when human resources are living healthy and sustainable lives. 
 
 The right combination of duties and rewards can provide the stability I need to support my family. My efforts over the years—my striving, reaching, and learning—haven’t been solely for personal satisfaction. It’s about achieving a vision many of us share: to "have it all," both a fulfilling career and a stable family life.
 
