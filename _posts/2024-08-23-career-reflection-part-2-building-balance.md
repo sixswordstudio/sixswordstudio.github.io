@@ -13,6 +13,8 @@ While data is often seen as cold and detached, it can also tell a compelling sto
 > In short, portions of a world view are constructed and made available, and a Western Apache version of the landscape is deepened, amplified, and tacitly affirmed. **With words, a massive physical presence is fashioned into a meaningful human universe.**  
 — _Keith Basso_, Wisdom Sits in Places
 
+This insight from Keith Basso highlights the power of narrative and how it shapes our understanding of the world around us. Just as the Apache people use stories to create a meaningful relationship with their environment, I’ve come to understand that my own career journey is also a narrative—one that I actively shape through the choices I make and the values I uphold. Recognizing this has allowed me to see my career not just as a series of jobs, but as a meaningful path toward both personal fulfillment and professional sustainability.
+
 ### Seeking sustainability
 
 I believe it is wise for me to seek a profession where I feel competent and that is sustainable in the long-term. That is a Holy Grail worth chasing. I love writing, editing, collaborating, and learning new things. 
