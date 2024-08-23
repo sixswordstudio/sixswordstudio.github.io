@@ -11,7 +11,7 @@ While data is often seen as cold and detached, it can also tell a compelling sto
 
 ### Seeking sustainability
 
-With this perspective in mind, I believe it is wise for me to seek a profession where I feel competent and that is sustainable in the long-term. That is a Holy Grail worth chasing. I love writing, editing, collaborating, and learning new things. 
+With this perspective in mind, I believe it is wise for me to seek a profession where I feel competent and that is sustainable in the long-term. That worth working hard every day to achieve. I love writing, editing, collaborating, and learning new things. 
 
 For over ten years, I've been doing 'more for less,' providing great value, and digging deep to find a path beyond mere survival. I want more than just survival; I want to thrive. Thriving means having the resources to care for my disabled mother, buy a home, and start my own family—all of which require a salary that matches my experience and skills.
 
