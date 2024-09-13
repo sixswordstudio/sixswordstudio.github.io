@@ -8,16 +8,11 @@ navbar_entries:
 project_entries:
   - title: API Documentation
     url: api-docs
-    desc: An introduction to API and API documentation
-    highlight: NEW 
+    desc: An introduction to API and API documentation 
 
   - title: How Funerals Shaped my Career
     url: how-funerals-shaped-my-career
     desc: A more in-depth story of "why" my career took this shape
-
-  - title: Building a Balanced Career
-    url: career-reflection-part-2-building-balance
-    desc: Part 2 of the career reflection series, looking ahead.
 
   - title: My Kaizen Technical Writing
     url: my-kaizen-technical-writing
